@@ -3,7 +3,7 @@ DATA: temp_dir   TYPE STRING,
  
 cl_gui_frontend_services=>get_temp_directory(
   CHANGING
-    temp_dir             = temp_dir    " Temporary Directory
+    temp_dir             = temp_dir    " Temporary Directory 
   EXCEPTIONS
     cntl_error           = 1
     error_no_gui         = 2
