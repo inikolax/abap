@@ -1,3 +1,6 @@
+*** Класс для преобразования наборов (SET - транзакция gs01) в range
+*** http://abap.kz/blog/152/user/inikolax
+
 *******  Пример использования *******
 *** Определяем новый RANGE
 *      DATA:lr_bwasl TYPE RANGE OF bwasl.
