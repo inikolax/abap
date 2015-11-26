@@ -1,7 +1,7 @@
 ABAP Source
 ====
 
-Сайт ABAP.KZ - Статьи на тематику SAP ABAP
+Сайт [ABAP.KZ] (http://abap.kz/) - Статьи на тематику SAP ABAP
 ---
 
 
